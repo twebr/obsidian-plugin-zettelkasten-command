@@ -1,0 +1,9 @@
+{
+	"id": "zettelkasten-command",
+	"name": "Zettelkasten Command",
+	"version": "0.1.0",
+	"minAppVersion": "0.9.12",
+	"description": "This plugin adds a command to insert a Zettel ID at the cursor position.",
+	"author": "twebr",
+	"isDesktopOnly": false
+}
